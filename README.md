@@ -4,7 +4,7 @@ Various Desmos projects I've made. While I can't embed each project here, I prov
 ## [Bessel functions J and Y](https://www.desmos.com/calculator/ievqtywfk5)
 Taylor series plots of the Bessel functions of the first (*J*) and second (*Y*) kind.
 
-<iframe src="https://www.desmos.com/calculator/kcezf2w1cq?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/kcezf2w1cq?invertedColors?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ## [Damped-driven oscillator](https://www.desmos.com/calculator/y7q6colulj)
 Resonance graphs for the classical damped-driven oscillator.
