@@ -4,8 +4,14 @@ Various Desmos projects I've made. While I can't embed each project here, I prov
 ## [Bessel functions J and Y](https://www.desmos.com/calculator/ievqtywfk5?invertedColors)
 Taylor series plots of the Bessel functions of the first (*J*) and second (*Y*) kind.
 
+## [Complex Fourier Series Waves](https://www.desmos.com/calculator/qzpvd7h1nj?invertedColors)
+Animated Fourier series as projections of a curve in the complex plane.
+
 ## [Damped-driven oscillator](https://www.desmos.com/calculator/y7q6colulj?invertedColors)
 Resonance graphs for the classical damped-driven oscillator.
+
+## [Elastic Collisions by Geometry](https://www.desmos.com/calculator/q0px86rzqm?invertedColors)
+Geometric solution in phase space for a collision between two objects. Based on the 3Blue1Brown [video](https://youtu.be/jsYwFizhncE)
 
 ## [Fibonacci Numbers Extended](https://www.desmos.com/calculator/cpu9oqpndj?invertedColors)
 A cute little module that extends the Fibonacci sequence and the Lucas numbers to noninteger indices.
@@ -18,6 +24,15 @@ Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases t
 
 ## [Heat Equation Solutions](https://www.desmos.com/calculator/jm0wguklxe?invertedColors)
 Animated solutions to the heat equation, based on the 3Blue1Brown [video](https://youtu.be/ToIXSwZ1pJU).
+
+## [Hermite functions and the QHO](https://www.desmos.com/calculator/vxpuwbythz?invertedColors)
+Plots of the solutions to the Schr&ouml;dinger equation for the simple harmonic oscillator.
+
+## [Legendre Polynomials](https://www.desmos.com/calculator/kh14bquiai?invertedColors)
+Recursively defined Legendre Polynomials with graphs.
+
+## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/mnu6tnlqvg?invertedColors)
+Interactive Maxwell-Boltzmann distribution of speeds for an ideal gas.
 
 ## [Venus Pentagram](https://www.desmos.com/calculator/8jvl6b2k0t?invertedColors)
 A lovely plot of the [Pentagram of Venus](http://eqnoftheday.com/the-pentagram-of-venus/).
