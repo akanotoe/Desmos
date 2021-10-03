@@ -1,23 +1,3 @@
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-tex2jax: {
-inlineMath: [['$','$'], ['\\(','\\)']],
-processEscapes: true},
-jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
-extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
-TeX: {
-extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
-equationNumbers: {
-autoNumber: "AMS"
-}
-}
-});
-</script>
-
-
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
@@ -34,7 +14,7 @@ A cute little module that extends the Fibonacci sequence and the Lucas numbers t
 Graphical solution to the quantum mechanical finite square well.
 
 ## [Fourier Transform Visualized](https://www.desmos.com/calculator/exhbaz9mpf)
-Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind the Fourier transform. Included are functions for square waves, sawtooth waves, and triangular waves. The function $f(t)$ can be customized to the user's liking.
+Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind the Fourier transform. Included are functions for square waves, sawtooth waves, and triangular waves. The function *f*(*t*) can be customized to the user's liking.
 
 ## [Heat Equation Solutions](https://www.desmos.com/calculator/jm0wguklxe)
 Animated solutions to the heat equation, based on the 3Blue1Brown [video](https://youtu.be/ToIXSwZ1pJU).
