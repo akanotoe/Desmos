@@ -34,5 +34,5 @@ Recursively defined Legendre Polynomials with graphs.
 ## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/mnu6tnlqvg?invertedColors)
 Interactive Maxwell-Boltzmann distribution of speeds for an ideal gas.
 
-## [Venus Pentagram](https://www.desmos.com/calculator/8jvl6b2k0t?invertedColors)
+## [Venus Pentagram](https://www.desmos.com/calculator/qeoycloxz0?invertedColors)
 A lovely plot of the [Pentagram of Venus](http://eqnoftheday.com/the-pentagram-of-venus/).
