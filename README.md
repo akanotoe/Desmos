@@ -1,7 +1,7 @@
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
-## [Bessel functions J and Y](https://www.desmos.com/calculator/ievqtywfk5?invertedColors)
+## [Bessel functions J and Y](https://www.desmos.com/calculator/hhhwtyc4gc?invertedColors)
 Taylor series plots of the Bessel functions of the first (*J*) and second (*Y*) kind.
 
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/qzpvd7h1nj?invertedColors)
