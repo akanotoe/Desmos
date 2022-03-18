@@ -4,7 +4,7 @@ Various Desmos projects I've made. While I can't embed each project here, I prov
 ## [Bessel functions J and Y](https://www.desmos.com/calculator/hhhwtyc4gc?invertedColors)
 Taylor series plots of the Bessel functions of the first (*J*) and second (*Y*) kind.
 
-## [Complex Fourier Series Waves](https://www.desmos.com/calculator/usxwxiwkdr?invertedColors)
+## [Complex Fourier Series Waves](https://www.desmos.com/calculator/giialsgjsb?invertedColors)
 Animated Fourier series as projections of a curve in the complex plane.
 
 ## [Damped-driven oscillator](https://www.desmos.com/calculator/y7q6colulj?invertedColors)
