@@ -31,7 +31,7 @@ Plots of the solutions to the Schr&ouml;dinger equation for the simple harmonic 
 ## [Legendre Polynomials](https://www.desmos.com/calculator/kh14bquiai?invertedColors)
 Recursively defined Legendre Polynomials with graphs.
 
-## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/mnu6tnlqvg?invertedColors)
+## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/0bu98a8yoo?invertedColors)
 Interactive Maxwell-Boltzmann distribution of speeds for an ideal gas.
 
 ## [Venus Pentagram](https://www.desmos.com/calculator/2lep41lbbk?invertedColors)
