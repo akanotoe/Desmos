@@ -19,7 +19,7 @@ A cute little module that extends the Fibonacci sequence and the Lucas numbers t
 ## [Finite Square Well Solution](https://www.desmos.com/calculator/qv2oyweian?invertedColors)
 Graphical solution to the quantum mechanical finite square well.
 
-## [Fourier Transform Visualized](https://www.desmos.com/calculator/exhbaz9mpf?invertedColors)
+## [Fourier Transform Visualized](https://www.desmos.com/calculator/hp6e58ss48?invertedColors)
 Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind the Fourier transform. Included are functions for square waves, sawtooth waves, and triangular waves. The function *f*(*t*) can be customized to the user's liking.
 
 ## [Heat Equation Solutions](https://www.desmos.com/calculator/jm0wguklxe?invertedColors)
