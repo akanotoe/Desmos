@@ -1,8 +1,8 @@
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
-## [Bessel functions J and Y](https://www.desmos.com/calculator/oxmkdpqazz?invertedColors)
-Taylor series plots of the Bessel functions of the first (*J*) and second (*Y*) kind.
+## [Bessel functions J and Y](https://www.desmos.com/calculator/holfafu5zh?invertedColors)
+Taylor series plots of the Bessel functions of the first (*J~&alpha;~*) and second (*Y~&alpha;~*) kind.
 
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/g6re5egglg?invertedColors)
 Animated Fourier series as projections of a curve in the complex plane.
