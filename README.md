@@ -1,13 +1,13 @@
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
-## [Bessel functions J and Y](https://www.desmos.com/calculator/holfafu5zh?invertedColors)
+## [Bessel functions J and Y](https://www.desmos.com/calculator/j5av12fhlo?invertedColors)
 Taylor series plots of the Bessel functions of the first $(J_\alpha)$ and second $(Y_\alpha)$ kind.
 
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/g6re5egglg?invertedColors)
 Animated Fourier series as projections of a curve in the complex plane.
 
-## [Damped-driven oscillator](https://www.desmos.com/calculator/y7q6colulj?invertedColors)
+## [Damped-driven oscillator](https://www.desmos.com/calculator/kmgdmcffyr?invertedColors)
 Resonance graphs for the classical damped-driven oscillator.
 
 ## [Elastic Collisions by Geometry](https://www.desmos.com/calculator/q0px86rzqm?invertedColors)
