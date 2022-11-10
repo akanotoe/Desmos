@@ -2,10 +2,15 @@
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
 ## [Bessel functions J and Y](https://www.desmos.com/calculator/mbpwbuwo0a?invertedColors)
-Taylor series plots of the Bessel functions of the first $(J_\alpha)$ and second $(Y_\alpha)$ kind.
+Taylor series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first $(J_\alpha)$ and second $(Y_\alpha)$ kind.
 
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/g6re5egglg?invertedColors)
-Animated Fourier series as projections of a curve in the complex plane.
+Animated [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) as projections of a curve in the complex plane.
+
+## [Digamma and Euler-Mascheroni](https://www.desmos.com/calculator/mvdwij1qy8?invertedColors)
+Plots of the [reciprocal gamma function](https://en.wikipedia.org/wiki/Reciprocal_gamma_function),
+[Digamma function](https://en.wikipedia.org/wiki/Digamma_function), and related functions,
+as well as calculating the Euler-Mascheroni constant from the Digamma function.
 
 ## [Damped-driven oscillator](https://www.desmos.com/calculator/kmgdmcffyr?invertedColors)
 Resonance graphs for the classical damped-driven oscillator.
@@ -20,7 +25,7 @@ A cute little module that extends the Fibonacci sequence and the Lucas numbers t
 Graphical solution to the quantum mechanical finite square well.
 
 ## [Fourier Transform Visualized](https://www.desmos.com/calculator/zhfqo6mmqb?invertedColors)
-Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind the Fourier transform. Included are functions for square waves, sawtooth waves, and triangular waves. The function *f*(*t*) can be customized to the user's liking.
+Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform). Included are functions for square waves, sawtooth waves, and triangular waves. The function *f*(*t*) can be customized to the user's liking.
 
 ## [Heat Equation Solutions](https://www.desmos.com/calculator/jm0wguklxe?invertedColors)
 Animated solutions to the heat equation, based on the 3Blue1Brown [video](https://youtu.be/ToIXSwZ1pJU).
