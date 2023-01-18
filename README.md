@@ -7,7 +7,7 @@ Taylor series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bess
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/g6re5egglg?invertedColors)
 Animated [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) as projections of a curve in the complex plane.
 
-## [Digamma and Euler-Mascheroni](https://www.desmos.com/calculator/mvdwij1qy8?invertedColors)
+## [Digamma and Euler-Mascheroni](https://www.desmos.com/calculator/cdpyhwnoml?invertedColors)
 Plots of the [reciprocal gamma function](https://en.wikipedia.org/wiki/Reciprocal_gamma_function),
 [Digamma function](https://en.wikipedia.org/wiki/Digamma_function), and related functions,
 as well as calculating the Euler-Mascheroni constant from the Digamma function.
