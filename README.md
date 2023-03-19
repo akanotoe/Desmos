@@ -7,13 +7,21 @@ Taylor series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bess
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/g6re5egglg?invertedColors)
 Animated [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) as projections of a curve in the complex plane.
 
+## [Convolutions](https://www.desmos.com/calculator/lsrpherdhd?invertedColors)
+Graphical examples of convolutions of two square pulses and two triangular pulses.
+
+## [Damped-driven oscillator](https://www.desmos.com/calculator/kmgdmcffyr?invertedColors)
+Resonance graphs for the classical damped-driven oscillator.
+
 ## [Digamma and Euler-Mascheroni](https://www.desmos.com/calculator/cdpyhwnoml?invertedColors)
 Plots of the [reciprocal gamma function](https://en.wikipedia.org/wiki/Reciprocal_gamma_function),
 [Digamma function](https://en.wikipedia.org/wiki/Digamma_function), and related functions,
 as well as calculating the Euler-Mascheroni constant from the Digamma function.
 
-## [Damped-driven oscillator](https://www.desmos.com/calculator/kmgdmcffyr?invertedColors)
-Resonance graphs for the classical damped-driven oscillator.
+## [Dipole equipotentials](https://www.desmos.com/calculator/2pps5jguic?invertedColors)
+Equipotential plots for dipole configurations. Examples include two point charges, two infinitely long line charges,
+and an equilateral triangle configuration of point charges. A distance parameter can be tweaked while keeping the dipole
+momment constant to show the limit as the charges get arbitrarily close together. 
 
 ## [Elastic Collisions by Geometry](https://www.desmos.com/calculator/q0px86rzqm?invertedColors)
 Geometric solution in phase space for a collision between two objects. Based on the 3Blue1Brown [video](https://youtu.be/jsYwFizhncE)
@@ -25,7 +33,9 @@ A cute little module that extends the Fibonacci sequence and the Lucas numbers t
 Graphical solution to the quantum mechanical finite square well.
 
 ## [Fourier Transform Visualized](https://www.desmos.com/calculator/zhfqo6mmqb?invertedColors)
-Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform). Included are functions for square waves, sawtooth waves, and triangular waves. The function *f*(*t*) can be customized to the user's liking.
+Based on the 3Blue1Brown [video](https://youtu.be/spUNpyF58BY), this showcases the geometric intuition behind
+the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform). Included are functions for square waves,
+sawtooth waves, and triangular waves. The function *f*(*t*) can be customized to the user's liking.
 
 ## [Heat Equation Solutions](https://www.desmos.com/calculator/jm0wguklxe?invertedColors)
 Animated solutions to the heat equation, based on the 3Blue1Brown [video](https://youtu.be/ToIXSwZ1pJU).
