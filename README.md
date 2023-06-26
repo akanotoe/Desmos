@@ -1,11 +1,8 @@
----
-usemathjax: True
----
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
 ## [Bessel functions *J* and *Y*](https://www.desmos.com/calculator/kli4qizwdi?invertedColors)
-Power series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first $$(J_\alpha)$$ and second $(Y_\alpha)$ kind.
+Power series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first $(J_\alpha)$ and second $(Y_\alpha)$ kind.
 
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/9loc6o658h?invertedColors)
 Animated [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) as projections of a curve in the complex plane.
@@ -52,7 +49,7 @@ Recursively defined Legendre Polynomials with graphs.
 ## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/0bu98a8yoo?invertedColors)
 Interactive Maxwell-Boltzmann distribution of speeds for an ideal gas.
 
-## [Riemann Zeta Function spirals](https://www.desmos.com/calculator/ct6ddr46h5?invertedColors)
+## [Riemann Zeta Function spirals](https://www.desmos.com/calculator/onm1eil7r2?invertedColors)
 Riemann Zeta function spirals for all $s$. When $\mathrm{Re}[s] > 1$ the spiral converges to the value of $\zeta(s)$, but when $\mathrm{Re}[s] < 1$, the spiral diverges, yet $\zeta(s)$ is analytically continued.
 
 ## [Riemann Zeta Function Critical Strip spiral](https://www.desmos.com/calculator/s7zr5u2nlh?invertedColors)
