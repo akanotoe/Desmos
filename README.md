@@ -1,3 +1,7 @@
+---
+usemathjax: true
+---
+
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
