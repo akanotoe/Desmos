@@ -2,7 +2,7 @@
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
 ## [Bessel functions *J* and *Y*](https://www.desmos.com/calculator/kli4qizwdi?invertedColors)
-Power series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first \((J_\alpha)\) and second $(Y_\alpha)$ kind.
+Power series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first \( (J_\alpha) \) and second $(Y_\alpha)$ kind.
 
 ## [Complex Fourier Series Waves](https://www.desmos.com/calculator/9loc6o658h?invertedColors)
 Animated [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) as projections of a curve in the complex plane.
