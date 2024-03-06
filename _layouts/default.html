@@ -11,20 +11,19 @@
     <![endif]-->
 
     <!-- for mathjax support -->
-    <script type="text/javascript" id="MathJax-script" async
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+<!--     <script type="text/javascript" id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-    </script>
+    </script> -->
     <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-      TeX: { equationNumbers: { autoNumber: "AMS" } },
-      tex2jax: {
-        inlineMath: [ ['$', '$'] ],
-        displayMath: [ ['$$', '$$'] ],
-        processEscapes: true,
-        }
-      });
+      MathJax = {
+        tex: { 
+          inlineMath: [ ['$', '$'] ],
+          displayMath: [ ['$$', '$$'] ],
+	  equationNumbers: { autoNumber: "AMS" } 
+	},
+      };
     </script>
-    <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
 
 {% seo %}
     {% include head-custom.html %}
