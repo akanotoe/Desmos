@@ -52,6 +52,9 @@ Recursively defined Legendre Polynomials with graphs.
 ## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/0bu98a8yoo?invertedColors)
 Interactive Maxwell-Boltzmann distribution of speeds for an ideal gas.
 
+## [Riemann Zeta Function (real line)](https://www.desmos.com/calculator/im6bxsem5h?invertedColors)
+Riemann Zeta function and Dirichlet Eta function plotted on the real line.
+
 ## [Riemann Zeta Function spirals](https://www.desmos.com/calculator/lawsg3gsur?invertedColors)
 Riemann Zeta function spirals for all $s$. When $\mathrm{Re}[s] > 1$ the spiral converges to the value of $\zeta(s)$, but when $\mathrm{Re}[s] < 1$, the spiral diverges, yet $\zeta(s)$ is analytically continued.
 
