@@ -1,6 +1,9 @@
 # Desmos
 Various Desmos projects I've made. While I can't embed each project here, I provide a link and a description of each project below.
 
+## [Airy function plot](https://www.desmos.com/calculator/lxmkf7tsea?invertedColors)
+Plot of the Airy function ${\rm Ai(x)}$ using approximations mentioned in the [DLMF](https://dlmf.nist.gov/9.7).
+
 ## [Bessel functions *J* and *Y*](https://www.desmos.com/calculator/0s0ct3cphy?invertedColors)
 Power series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first $(J_\alpha)$ and second $(Y_\alpha)$ kind.
 
@@ -25,6 +28,9 @@ momment constant to show the limit as the charges get arbitrarily close together
 
 ## [Elastic Collisions by Geometry](https://www.desmos.com/calculator/osxsppcgm7?invertedColors)
 Geometric solution in phase space for a collision between two objects. Based on the 3Blue1Brown [video](https://youtu.be/jsYwFizhncE)
+
+## [Euler-Mascheroni constant - graphical representation](https://www.desmos.com/calculator/i7lgj5hn8x?invertedColors)
+Graphical representation of the partial sum terms for the Euler-Mascheroni constant.
 
 ## [Fibonacci Numbers Extended](https://www.desmos.com/calculator/cpu9oqpndj?invertedColors)
 A cute little module that extends the Fibonacci sequence and the Lucas numbers to noninteger indices.
@@ -61,7 +67,7 @@ Riemann Zeta function spirals for all $s$. When $\mathrm{Re}[s] > 1$ the spiral 
 ## [Riemann Zeta Function Critical Strip spiral](https://www.desmos.com/calculator/s7zr5u2nlh?invertedColors)
 Critical strip spiral plotted for the Riemann Zeta function. The spiral satisfies $\left(x(t), y(t) \right) = \left(\mathrm{Re}[\zeta(\frac{1}{2} + it)], \mathrm{Im}[\zeta(\frac{1}{2} + it)]\right)$
 
-## [Visualization of Taylor Series in the Complex Plane](https://www.desmos.com/calculator/efywbzeprt?invertedColors)
+## [Visualization of Taylor Series in the Complex Plane](https://www.desmos.com/calculator/tmgwtxiygy?invertedColors)
 A visualization of spirals produced by Taylor series in the complex plane. Functions with finite radius of convergence are provided to show what happens outside the radius of convergence, invoking analytic continuation.
 
 ## [Visualization of Risk in Statistics](https://www.desmos.com/calculator/batwru7rp3?invertedColors)
