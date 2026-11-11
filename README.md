@@ -7,7 +7,7 @@ Plot of the Airy function ${\rm Ai(x)}$ using approximations mentioned in the [D
 ## [Bessel functions *J* and *Y*](https://www.desmos.com/calculator/0s0ct3cphy?invertedColors)
 Power series plots of the [Bessel functions](https://en.wikipedia.org/wiki/Bessel_function) of the first $(J_\alpha)$ and second $(Y_\alpha)$ kind.
 
-## [Complex Fourier Series Waves](https://www.desmos.com/calculator/9loc6o658h?invertedColors)
+## [Complex Fourier Series Waves](https://www.desmos.com/calculator/3961f3b3d5?invertedColors)
 Animated [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) as projections of a curve in the complex plane.
 
 ## [Convolutions](https://www.desmos.com/calculator/euiqdmir1w?invertedColors)
